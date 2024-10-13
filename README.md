@@ -19,9 +19,6 @@ The Titanic dataset is available on [Kaggle](https://www.kaggle.com/c/titanic/da
 - **Fixing Data Types**:
   - The `Pclass` and `Survived` columns are converted to categorical variables for easier analysis.
 
-- **Feature Engineering** (optional):
-  - Created additional features like `FamilySize` (sum of `SibSp` and `Parch`) and `IsAlone` (binary feature indicating if a passenger is traveling alone).
-
 ### 2. Exploratory Data Analysis (EDA)
 
 EDA helps uncover trends, relationships, and patterns in the data. Below are the visualizations and insights gained from the Titanic dataset:
