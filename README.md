@@ -1,3 +1,5 @@
+![Screenshot 2024-10-13 165054](https://github.com/user-attachments/assets/5f90f840-c642-450b-9bf8-9356749e96c5)
+
 # Titanic Dataset - Data Cleaning and Exploratory Data Analysis (EDA)
 
 This project performs data cleaning and exploratory data analysis (EDA) on the Titanic dataset. The analysis helps us understand patterns, trends, and relationships between variables that influenced the survival of passengers on the Titanic.
